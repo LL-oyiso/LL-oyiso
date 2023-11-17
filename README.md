@@ -37,7 +37,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ll-oyiso" alt="ll-oyiso" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/LL-oyiso/Personal_Portfolio)
+- 🔭 I’m currently working on [Real_Time_Chat_App](https://github.com/LL-oyiso/Phke)
 
 - 🌱 I’m currently learning **React.Js, JavaScript, Python**
 
