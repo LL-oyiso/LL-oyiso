@@ -39,7 +39,7 @@
 
 - 🔭 I’m currently working on [Real_Time_Chat_App](https://github.com/LL-oyiso/Phke)
 
-- 🌱 I’m currently learning **React.Js, JavaScript, Python**
+- 🌱 I’m currently learning **React.Js, JavaScript, Python, Powerbi**
 
 - 👯 I’m looking to collaborate on **Full stack projects, data analysis and visualisation projects**
 
