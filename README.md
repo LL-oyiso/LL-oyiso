@@ -48,6 +48,7 @@
 - 💬 Ask me about **Html,Css and JavaScript**
 
 - 📫 How to reach me **theo.tose.tt@gmail.com**
+- ## Please view my project under the pinned section below
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
