@@ -48,7 +48,10 @@
 - 💬 Ask me about **Html,Css and JavaScript**
 
 - 📫 How to reach me **theo.tose.tt@gmail.com**
-- ## Please view my project under the pinned section below
+- ## Please view my projects under the section pinned down below
+- https://github.com/LL-oyiso/DataCleaning_SQL
+- https://github.com/LL-oyiso/Olympics_EDA
+- https://github.com/LL-oyiso/Data_Profession_Breakdown
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
