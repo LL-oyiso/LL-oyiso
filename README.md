@@ -33,19 +33,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Loyiso</h1>
-<h3 align="center">A passionate data analyst with an interest in frontend developer from South Africa</h3>
+<h3 align="center">A passionate data analyst  from South Africa</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ll-oyiso" alt="ll-oyiso" /></a> </p>
 
 - 🔭 I’m currently working on [Real_Time_Chat_App](https://github.com/LL-oyiso/Phke)
 
-- 🌱 I’m currently learning **React.Js, JavaScript, Python, Powerbi**
+- 🌱 I’m currently learning **Python, Powerbi**
 
-- 👯 I’m looking to collaborate on **Full stack projects, data analysis and visualisation projects**
+- 👯 I’m looking to collaborate on **Data analysis and visualisation projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LL-oyiso/LoyisoTose.io](https://github.com/LL-oyiso/LoyisoTose.io)
 
-- 💬 Ask me about **Html,Css and JavaScript**
 
 - 📫 How to reach me **theo.tose.tt@gmail.com**
 - ## Please view my projects under the section pinned down below
